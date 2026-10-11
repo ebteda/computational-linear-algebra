@@ -2,9 +2,7 @@
 
 This project ranks web pages by **how important they are**, using the same idea as Google's first search engine.
 
-It was a homework for the course **Computational Linear Algebra for Large Scale Problems** (Politecnico di Torino, 2025/2026). It follows the paper *The $25,000,000,000 Eigenvector: The Linear Algebra Behind Google* by Kurt Bryan and Tanya Leise.
-
-Author: **A R**.
+It follows the paper *The $25,000,000,000 Eigenvector: The Linear Algebra Behind Google* by Kurt Bryan and Tanya Leise.
 
 ---
 
