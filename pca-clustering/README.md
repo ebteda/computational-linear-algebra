@@ -2,10 +2,6 @@
 
 This project takes a long survey (93 questions per person) and turns it into **5 simple profiles**. Then it finds **groups of people** with similar answers.
 
-It was a homework for the course **Computational Linear Algebra for Large Scale Problems** (Politecnico di Torino, 2025/2026).
-
-Author: **A R**.
-
 ---
 
 ## The idea in short
