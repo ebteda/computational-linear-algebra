@@ -2,8 +2,6 @@
 
 Two projects from the course **Computational Linear Algebra for Large Scale Problems** at **Politecnico di Torino** (academic year 2025/2026).
 
-Author: **A R**.
-
 ---
 
 ## The two projects
