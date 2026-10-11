@@ -25,8 +25,6 @@ The code is written **from scratch with NumPy**. No graph or PageRank library is
 - **Google matrix `M`:** `M = (1 − m) A + m S`, where every entry of `S` is `1/N` and **m = 0.15** (the value Google used). This makes sure there is only one answer.
 - **Power method:** start with `x = (1/N, ..., 1/N)`, then repeat `x = M x` **30 times**. The final scores add up to 1.
 
-A simple way to read the score: imagine someone clicking links at random. The score of a page is how much of the time they spend on it.
-
 ---
 
 ## Main results
