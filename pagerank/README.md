@@ -1,8 +1,6 @@
 # PageRank
 
-This project ranks web pages by **how important they are**, using the same idea as Google's first search engine.
-
-It follows the paper *The $25,000,000,000 Eigenvector: The Linear Algebra Behind Google* by Kurt Bryan and Tanya Leise.
+This project ranks web pages by **how important they are**, using the same idea as Google's first search engine. It follows the paper *The $25,000,000,000 Eigenvector: The Linear Algebra Behind Google* by Kurt Bryan and Tanya Leise.
 
 ---
 
